@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hooray!</title>
+</head>
+<body>
+<h1>Success! You found the missing kid!</h1>
+<p></p>
+<br>
+<h1 style="background-color:Tomato;"><a href="index.html">>Play Again!</a></h1>
+</body>
+</html>
