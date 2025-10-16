@@ -7,7 +7,6 @@
 <h1>Success! You found the missing kid!</h1>
 <img src="assets/happyranger.jpg" style="width:500px;height:325px;">
 <p>Wow, great job!</p>
-<br>
 <p>The park ranger pats you on the back upon your return to camp, congratulating your success. You're confused. You didn't end up finding the missing child. The ranger waves away your protests, and greets the cat with unexpected giddiness. He turns away to dial a number on the landline, and excitedly tells the people on the phone their son has been found!</p>
 <p>You frown. The cat meows in your arms. Suddenly, you realize that all of this fuss has been kicked up to find a missing cat, not a human child. Next time, the ranger really needs to tell the entire story before sending you on this wild goose chase.</p>
 <br>
