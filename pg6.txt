@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Leave the creepy baby behind.</title>
+</head>
+<body>
+<h1>A kitty!</h1>
+<img src="assets/orangecatintree.jpg" style="width:500px;height:325px;">
+<br>
+<p>As you turn away from the staring baby, a pitiful meow alerts you to shaking leaves above your head. You spot an orange cat hanging on to a steadily creaking branch; it's about to fall! Quickly, you run under the tree, catching the cat just in time. It meows in your arms, and you decide to wrap it up in your jacket.</p>
+<p>The sun is quickly setting, and you don't want to get lost in the forest without light. You make your way back to the rangers' site.</p>
+
+<a href="pg9.html">>Next.</a>
+
+</body>
+</html>
